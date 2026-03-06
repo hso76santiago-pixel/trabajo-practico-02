@@ -1,1 +1,5 @@
 hola este es mi primer arhivo leido con Nj
+datos personales
+alumno: héctor santiago Orellana gonzalez
+celular:3834-801585
+correo electrónico: hso76santiago@gmail.com
